@@ -1,3 +1,7 @@
+"""
+   Celery integration in python3
+"""
+
 from celery import Celery
 import pymongo
 import time
