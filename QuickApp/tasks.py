@@ -1,5 +1,5 @@
 """
-   Celery integration in python3
+   Celery integration in python
 """
 
 from celery import Celery
